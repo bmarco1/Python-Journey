@@ -79,3 +79,6 @@ elif age >13:
 elif age >65:
     stage = 'elder'
 print("You are a " + str(stage))
+
+alien_0 = {'color': 'green', 'point': 5}
+print(alien_0)
