@@ -20,6 +20,8 @@ favorite_languages = {
 'phil': 'pyhton'
 }
 
+
+
 friends = ['phil', 'sarah']
 for name in favorite_languages.keys():
     print(name.title())

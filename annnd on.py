@@ -14,6 +14,7 @@ def describe_pet(pet_name, animal_type='dog'):
     print("My " + animal_type + "'s name is " + pet_name.title() + ".")
 print("\n")
 
+
 describe_pet(pet_name='willie')
 
 print("\n")
