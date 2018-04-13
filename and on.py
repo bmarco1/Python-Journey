@@ -9,7 +9,3 @@ print("you ordered a " + pizza['crust'] + "-crust pizza " + "with the following 
 
 for topping in pizza['toppings']:
     print("\t" + topping)
-
-
-
-    
