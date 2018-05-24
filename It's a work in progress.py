@@ -20,7 +20,7 @@ dimension = (200,50)
 print('Original dimension:')
 for dimension in dimension:
     print(dimension)
-
+r
 dimension = (400,200)
 print("\nModified dimension:")
 for dimension in dimension:
